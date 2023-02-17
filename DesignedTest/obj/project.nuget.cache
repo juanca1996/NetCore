@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MH9hrDKAbtmJW2F14FuIecNahQepnz6wD97JGuaRiJ3Kx17YAvhNgd3hhIx1Cb3hq3h5Qo7gBljpfKfW0ByivQ==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/DesignedTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

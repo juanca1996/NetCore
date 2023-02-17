@@ -1,0 +1,16 @@
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/bin/Debug/net5.0/DesignedTest
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/bin/Debug/net5.0/DesignedTest.deps.json
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/bin/Debug/net5.0/DesignedTest.runtimeconfig.json
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/bin/Debug/net5.0/DesignedTest.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/bin/Debug/net5.0/DesignedTest.dll
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/bin/Debug/net5.0/DesignedTest.pdb
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/DesignedTest.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/DesignedTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/DesignedTest.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/DesignedTest.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/DesignedTest.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/DesignedTest.dll
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/refint/DesignedTest.dll
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/DesignedTest.pdb
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/DesignedTest.genruntimeconfig.cache
+/Users/macbookpro/Desktop/Juanca/NetCore/DesignedTest/obj/Debug/net5.0/ref/DesignedTest.dll
